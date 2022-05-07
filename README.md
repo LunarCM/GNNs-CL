@@ -10,6 +10,8 @@ python3.8 main.py
 
 ## Others
 Thanks for the referrence:
+
 https://github.com/xiaxin1998/COTREC
+
 https://github.com/CCIIPLab/GCE-GNN
 
