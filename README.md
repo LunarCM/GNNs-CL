@@ -1,7 +1,7 @@
 # GNN-CL
 The Code for paper 
 
-《Three Granularities Graph Neural Networks with Contrastive Learning for Session-based Recommendation》
+《A general framework for session-based recommendation with graph neural networks and contrastive learning》
 
 ## Requirements
 Python 3.8.8
