@@ -3,7 +3,7 @@ import numpy as np
 import random
 from scipy.sparse import coo_matrix
 from sklearn.manifold import TSNE
-from visdom import Visdom
+# from visdom import Visdom
 
 
 def trans_to_cuda(variable):
